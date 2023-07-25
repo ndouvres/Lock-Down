@@ -1,0 +1,4 @@
+collections:
+
+  - name: oracle.oci
+    source: /opt/AWX/oci-ansible-collection 
